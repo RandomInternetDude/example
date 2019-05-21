@@ -1,1 +1,3 @@
-console.log("pancakes")
+function sum(a+b){
+    return a+b
+}
